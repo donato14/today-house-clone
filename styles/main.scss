@@ -5,6 +5,4 @@
 @import './base/normalize';
 @import './base/reset';
 
-p {
-  list-style: none;
-}
+@import './layouts/grids';

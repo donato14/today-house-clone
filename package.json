@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/donato14/today-house-clone#readme",
   "dependencies": {
-    "node-sass": "^7.0.0"
+    "node-sass": "^7.0.1"
   },
   "devDependencies": {
     "sass-lint": "^1.13.1"
